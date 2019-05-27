@@ -59,7 +59,6 @@ margin: 10px;
 result:
 ```css
 padding: 20px;
-background-color: #bada55;
 margin: 20px;
 ```
 
