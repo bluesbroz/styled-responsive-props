@@ -1,6 +1,6 @@
 {
   "name": "styled-responsive-props",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Responsive css props helper for styled-components",
   "main": "./dist/index.js",
   "scripts": {
