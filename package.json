@@ -2,6 +2,10 @@
   "name": "styled-responsive-props",
   "version": "1.0.1",
   "description": "Responsive css props helper for styled-components",
+  "keywords": [
+    "react",
+    "styled-components"
+  ],
   "main": "./dist/index.js",
   "scripts": {
     "build": "babel src/index.js --out-file dist/index.js",
